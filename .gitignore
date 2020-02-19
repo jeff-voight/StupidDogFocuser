@@ -22,4 +22,10 @@ fp-info-cache
 *.xml
 *.csv
 
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+indi_stupiddogfocuser
+nbproject
 
